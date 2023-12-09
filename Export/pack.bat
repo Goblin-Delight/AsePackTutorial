@@ -1,0 +1,1 @@
+TexturePacker configuration.tps --default-pivot-point 0.5,1.0 --sheet Packed/%1/%2.png --data Packed/%1/%2.paper2dsprites AnimationArchive/Frames/%1/%2

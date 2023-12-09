@@ -1,0 +1,1 @@
+FOR /d /r . %%d IN (%2) DO @IF EXIST "%%d" rd /s /q "%%d"

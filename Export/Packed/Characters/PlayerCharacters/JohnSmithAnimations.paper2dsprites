@@ -1,0 +1,166 @@
+{"frames": {
+
+"JohnSmithAnimationsIdle/01":
+{
+	"frame": {"x":57,"y":0,"w":32,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":17,"w":32,"h":111},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsIdle/02":
+{
+	"frame": {"x":95,"y":359,"w":33,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":20,"w":33,"h":108},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsIdle/03":
+{
+	"frame": {"x":94,"y":0,"w":31,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":18,"w":31,"h":110},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsIdle/04":
+{
+	"frame": {"x":51,"y":359,"w":39,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":20,"w":39,"h":108},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsIdle/05":
+{
+	"frame": {"x":94,"y":0,"w":31,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":18,"w":31,"h":110},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsJump/01":
+{
+	"frame": {"x":169,"y":0,"w":41,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":32,"w":41,"h":96},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsJump/02":
+{
+	"frame": {"x":0,"y":122,"w":47,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":12,"w":47,"h":116},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsJump/03":
+{
+	"frame": {"x":133,"y":348,"w":38,"h":90},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":38,"w":38,"h":90},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsJump/04":
+{
+	"frame": {"x":0,"y":0,"w":52,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":11,"w":52,"h":117},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/01":
+{
+	"frame": {"x":51,"y":243,"w":50,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":17,"w":50,"h":111},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/02":
+{
+	"frame": {"x":106,"y":238,"w":54,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":23,"w":54,"h":105},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/03":
+{
+	"frame": {"x":107,"y":115,"w":34,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":34,"h":105},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/04":
+{
+	"frame": {"x":0,"y":243,"w":46,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":15,"w":46,"h":113},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/05":
+{
+	"frame": {"x":52,"y":122,"w":50,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":17,"w":50,"h":111},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/06":
+{
+	"frame": {"x":146,"y":110,"w":48,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":25,"w":48,"h":103},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/07":
+{
+	"frame": {"x":130,"y":0,"w":34,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":34,"h":105},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+},
+"JohnSmithAnimationsWalk/08":
+{
+	"frame": {"x":0,"y":361,"w":46,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":15,"w":46,"h":113},
+	"sourceSize": {"w":128,"h":128},
+	"pivot": {"x":0.5,"y":1}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"target": "paper2d", 
+	"image": "JohnSmithAnimations.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:41faa667c664cc1f1b4428979ce644f7:6ea3f846298f488c642662d5180fbb43:7522d917582e4a2b1aa209abe5f988c0$"
+}
+}
