@@ -21,7 +21,7 @@ This `Ases` folder contains the most up-to-date source files for all of my anima
 
 In the `Ases` folder, based on the way I wrote the scripts, I’m able to have up to 2 additional levels of organization below the `Ases` folder. 
 
-For example: \
+For example:
 - `Ases/Characters` is OKAY 
 - `Ases/Characters/PlayerCharacters` or `Ases/Characters/NPCs` is OKAY
 - `Ases/Characters/PlayerCharacters/JohnSmith/` is **NOT OKAY**.
