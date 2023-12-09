@@ -118,7 +118,7 @@ finally, we call `pack.bat`, which is the file that talks to the TexturePacker C
 
 `TexturePacker configuration.tps --default-pivot-point 0.5,1.0 --sheet Packed/%1/%2.png --data Packed/%1/%2.paper2dsprites AnimationArchive/Frames/%1/%2`
 
-Here you're defining the config file, the pivot point, the location the sheet will export to and the name of the resulting texture, and the location of the data file -- these should always be next to each other for ease of use. Finally, you're telling it the folder it where it can get the frames that need to be packed.
+Here you're defining the config file, the pivot point, the location the sheet will export to and the name of the resulting texture, and the location of the data file -- these should always be next to each other for ease of use. Finally, you're telling it the folder where it can get the frames that need to be packed.
 
 ## In Unreal
 Now, all you have to do is drag ONLY the `.paper2dsprites data file` into Unreal. This will automatically import the texture and extract the sprites. 
