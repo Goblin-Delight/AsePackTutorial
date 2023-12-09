@@ -121,7 +121,7 @@ finally, we call `pack.bat`, which is the file that talks to the TexturePacker C
 Here you're defining the config file, the pivot point, the location the sheet will export to and the name of the resulting texture, and the location of the data file -- these should always be next to each other for ease of use. Finally, you're telling it the folder where it can get the frames that need to be packed.
 
 ## In Unreal
-Now, all you have to do is drag ONLY the `.paper2dsprites data file` into Unreal. This will automatically import the texture and extract the sprites. 
+Now, all you have to do is drag ONLY the `.paper2dsprites data file` from `Export/Packed/etc` into Unreal. This will automatically import the texture and extract the sprites. 
 
 If you have a lot of sprites, this could lock up Unreal for a few, even if you have a beefy CPU.
 
