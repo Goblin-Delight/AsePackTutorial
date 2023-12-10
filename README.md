@@ -8,8 +8,6 @@ Credit not required but is appreciated.
 **NOTE**: My files and folders have kind of long names in this example, so if you're not keeping your project at the root of your hard drive, you might need to think about truncating or just making smaller names to avoid Windows MAX_PATH length limit (256 chars). 
 
 # Intro
-Since I've been inundating reddit with posts all about (fred durst voice) my [yum yum bloodgun](https://yumyum.cool/) bullshit, I figured I'd give back a little by explaining a nice timesaving feature for devs working with lots of sprites in Unreal.
-
 This is specifically targeted for Aseprite users, and also makes use of a great tool called [TexturePacker](https://www.codeandweb.com/texturepacker) by CodeAndWeb. Andreas from CodeAndWeb always helps me out when I email them, and the software itself is awesome imo.
 
 ## Filesystem Structure
