@@ -5,7 +5,9 @@ I’m licensing this tutorial under the MIT license – use it and the provided 
 
 Credit not required but is appreciated.
 
-**NOTE**: My files and folders have kind of long names in this example, so if you're not keeping your project at the root of your hard drive, you might need to think about truncating or just making smaller names to avoid Windows MAX_PATH length limit (256 chars). 
+**NOTE**: My files and folders have kind of long names in this example, so if you're not keeping your project at the root of your hard drive, you might need to think about truncating or just making smaller names to avoid Windows MAX_PATH length limit (256 chars).
+
+if you're interested in checking out my work, my current upcoming game is [yumyum.cool](https://yumyum.cool), and you can check out my studio at [goblindelight.com](https://goblindelight.com)
 
 # Intro
 This is specifically targeted for Aseprite users, and also makes use of a great tool called [TexturePacker](https://www.codeandweb.com/texturepacker) by CodeAndWeb. Andreas from CodeAndWeb always helps me out when I email them, and the software itself is awesome imo.
